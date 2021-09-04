@@ -1,7 +1,7 @@
 # Paper-Review
 ---
 
-## History
+## Contents
 | Date | Paper | Note | Category | Review | Reviewer |
 |---:|---:|---:|---:|---:|---:|
 | `2021-08-14` | [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)| `ResNet` | `ComputerVision` | [Review](https://sooho-kim.tistory.com/142) | 김수호 |
