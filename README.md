@@ -2,7 +2,7 @@
 
 ## Contents
 | Date | Paper | Keyword | Category | Review | Reviewer |
-|---:|---:|---:|---:|---:|---:|
+|---|---|---|---|---|---|
 | `2021-08-14` | [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)| `ResNet` | `ComputerVision` | [Review](https://sooho-kim.tistory.com/142) | 김수호 |
 | `2021-08-14` | []() | `` | `` | [Review]() | 허재섭 |
 | `2021-08-21` | [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf) | `Resnet` | `ComputerVision` | [Review](https://sooho-kim.tistory.com/144) | 김수호 |
