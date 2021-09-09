@@ -2,9 +2,8 @@
 
 ## Contents
 
-| Date | Paper                                                                                                                                                                      | Keyword | Category | Review | Reviewer |
-| --- | --- 
-| --- | --- | --- | --- |
+| Date | Paper | Keyword | Category | Review | Reviewer |
+| --- | --- | --- | --- | --- | --- |
 | `2021-08-14` | [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)                                                                               | `ResNet` | `ComputerVision` | [Review](https://sooho-kim.tistory.com/142) | 김수호 |
 | `2021-08-14` | [Polarized Self-Attention: Towards High-quality Pixel-wise Regression](https://arxiv.org/pdf/2107.00782v2.pdf)                                                      | `Polarized Self-Attention` | `ComputerVision` | [Review](https://velog.io/@shjas94/Polarized-Self-Attention) | 허재섭 |
 | `2021-08-21` | [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf)                                                                               | `ResNet`| `ComputerVision` | [Review](https://sooho-kim.tistory.com/144) | 김수호 |
