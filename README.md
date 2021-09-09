@@ -12,9 +12,7 @@
 | `2021-09-04` | [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf)                                                                                                | `ResNext`                  | `ComputerVision` | [Review](https://sooho-kim.tistory.com/157)                                                       | 김수호   |
 | `2021-09-04` | [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/pdf/2108.08810v1.pdf)                                                                                            | `VIT`                      | `ComputerVision` | [Review](https://velog.io/@shjas94/Do-Vision-Transformers-See-Like-Convolutional-Neural-Networks) | 허재섭   |
 | `2021-09-04` | [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)                                                               | `ELMo`                     | `NLP`            | [Review](https://moon-jong.github.io/2021/08/24/deep-contextualized-word-representations-elmo.html)                                                                                        | 신문종   |
-| `2021-09-04` | [AN IMAGE IS WORTH 16X16 WORDS:
-TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
-](https://arxiv.org/pdf/2010.11929.pdf)                                                               | `ViT`                         | `ComputerVision` | [Review](https://drive.google.com/file/d/1f91dVXOgdmE7YuY3JKsVVa1SIrqhiu6f/view?usp=sharing)                                                                                        | 송광원   |
+| `2021-09-04` | [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)                                                               | `ViT`                         | `ComputerVision` | [Review](https://drive.google.com/file/d/1f91dVXOgdmE7YuY3JKsVVa1SIrqhiu6f/view?usp=sharing)                                                                                        | 송광원   |
 
 ## Member
 
