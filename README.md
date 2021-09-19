@@ -13,7 +13,7 @@
 | `2021-09-04` | [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/pdf/2108.08810v1.pdf)                                                           | `VIT vs CNN` | `ComputerVision` | [Review](https://shjas94.github.io/paper/VITvsCNN/) | 허재섭 |
 | `2021-09-04` | [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)                                                                                   | `ELMo` | `NLP` | [Review](https://moon-jong.github.io/2021/08/24/deep-contextualized-word-representations-elmo.html) | 신문종 |
 | `2021-09-04` | [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)                                                 | `ViT`| `ComputerVision` | [Review](https://drive.google.com/file/d/1f91dVXOgdmE7YuY3JKsVVa1SIrqhiu6f/view?usp=sharing)| 송광원 |
-
+| `2021-09-21` | [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf) | `GAN` | `ComputerVision`|[Review](https://shjas94.github.io/paper/GAN/) | 허재섭 |
 ## Member
 
 - [김수호](https://github.com/Sooho-Kim)
